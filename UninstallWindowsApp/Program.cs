@@ -14,10 +14,6 @@ namespace UninstallWindowsApp
     {
         static void Main(string[] args)
         {
-            //BC2A HQ Client
-            //BC2A HQ Server
-            //BC2A Platform
-            // TNS
             bool isAdministrator = IsUserAdministrator();
             Console.WriteLine("Current user is administrator - {0}", isAdministrator);
             if (isAdministrator)
