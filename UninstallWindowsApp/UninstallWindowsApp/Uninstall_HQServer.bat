@@ -1,0 +1,1 @@
+"%~dp0\UninstallWindowsApp.exe" "BC2A HQ Server"
